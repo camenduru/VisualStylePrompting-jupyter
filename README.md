@@ -20,7 +20,8 @@ https://arxiv.org/abs/2402.12974
 https://curryjung.github.io/VisualStylePrompt/
 
 ### 🖼 Output
-![Screenshot 2024-03-15 083709](https://github.com/camenduru/VisualStylePrompting-jupyter/assets/54370274/bd5165bd-e032-4dd2-abae-abca679f136a)
+
+https://github.com/camenduru/VisualStylePrompting-jupyter/assets/54370274/fa3f8f46-807b-45de-8c4c-d583cff124aa
 
 ### 🏢 Sponsor
 https://modelslab.com
