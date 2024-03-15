@@ -8,6 +8,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VisualStylePrompting-jupyter/blob/main/VisualStylePrompting_jupyter.ipynb) | VisualStylePrompting_jupyter (😐 High-RAM Colab)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/VisualStylePrompting-jupyter/blob/main/VisualStylePrompting_ControlNet_jupyter.ipynb) | VisualStylePrompting_ControlNet_jupyter (😐 High-RAM Colab)
+[![open_in_kaggle_small](https://user-images.githubusercontent.com/54370274/228924833-17316feb-d0fe-4249-90ba-682930ba11e5.svg)](https://www.kaggle.com/camenduru/visualstyleprompting-controlnet) | visualstyleprompting-controlnet (Free Kaggle)
 
 ### 🧬 Code
 https://github.com/naver-ai/Visual-Style-Prompting
